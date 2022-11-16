@@ -9,6 +9,10 @@ node_modules
 bower_components
 .env
 
+
+Question2/node_modules
+
+
 *.sublime*
 
 psd
