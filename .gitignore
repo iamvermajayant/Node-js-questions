@@ -11,6 +11,9 @@ bower_components
 
 
 Question2/node_modules
+Question1/node_modules
+Question3/node_modules
+Question3/chatt-app/node_modules
 
 
 *.sublime*
